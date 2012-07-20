@@ -1,5 +1,7 @@
 = API Documentation Tool {<img src="https://secure.travis-ci.org/Pajk/rails-restapi.png?branch=master" alt="Build Status" />}[http://travis-ci.org/Pajk/rails-restapi]
 
+== No longer maintained. Renamed to {apipie-rails}[https://github.com/Pajk/apipie-rails].
+
 == What?
 
 Every API needs a documentation otherwise no one know how to use it.
